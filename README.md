@@ -6,7 +6,7 @@ This project uses the GRASP algorithm to compare surface station measurements of
 
 Data Sources
 
-    Satellite Data: The satellite data used in this project is obtained from the ICARE Data and Services Center (https://www.icare.univ-lille.fr/data-access/data-archive-access/?dir=PARASOL/L2-GRASP.v1.00/). This dataset contains the PARASOL/POLDER Level 2 GRASP product, which provides estimates of PM2.5 concentrations derived from satellite observations. The tile used for Sao Paulo is 382.
+    Satellite Data: The satellite data used in this project is obtained from the ICARE Data and Services Center ([https://www.icare.univ-lille.fr/data-access/data-archive-access/?dir=PARASOL/L2-GRASP.v1.00/]). This dataset contains the PARASOL/POLDER Level 2 GRASP product, which provides estimates of PM2.5 concentrations derived from satellite observations. The tile used for Sao Paulo is 382.
     Surface Data: The surface station measurements of PM2.5 are obtained from CETESB monitoring network. This dataset provides ground-based hourly observations of PM2.5 concentrations at various locations in Sao Paulo.
     
 Methodology
