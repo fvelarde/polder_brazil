@@ -1,12 +1,13 @@
 # Comparing Surface PM2.5 Measurements with Satellite-Derived Estimates using GRASP
 
 Introduction
-This project aims to compare surface station measurements of PM2.5 with satellite-derived estimates from the PARASOL/POLDER instruments using the GRASP algorithm. The goal is to assess the accuracy and reliability of the satellite-based PM2.5 product by evaluating its performance against ground-based observations.
+This project aims to compare surface station measurements of PM2.5 with satellite-derived estimates from the PARASOL/POLER instrument using the GRASP algorithm. The goal is to assess the accuracy and reliability of the satellite-based PM2.5 product by evaluating its performance against ground-based observations.
 
 Data Sources
-    Satellite Data: The satellite data used in this project is obtained from the ICARE Data and Services Center. This dataset contains the PARASOL/POLDER Level 2 GRASP product, which provides estimates of PM2.5 concentrations derived from the satellite observations. The tile used for Sao Paulo Brazil is 382.
-    Surface Data: The surface station measurements of PM2.5 are obtained from the Fatima. This dataset provides ground-based observations of PM2.5 concentrations at various locations in Sao Paulo.
 
+    Satellite Data: The satellite data used in this project is obtained from the ICARE Data and Services Center. This dataset contains the PARASOL/POLER Level 2 GRASP product, which provides estimates of PM2.5 concentrations derived from the satellite observations.
+    Surface Data: The surface station measurements of PM2.5 are obtained from the Fatima monitoring network. This dataset provides ground-based observations of PM2.5 concentrations at various locations.
+    
 Methodology
 
     Satellite Data Preprocessing:
