@@ -2,7 +2,7 @@
 
 Introduction
 
-This project uses the GRASP algorithm to compare surface station measurements of PM2.5 with satellite-derived estimates from the PARASOL/POLDER instrument. The goal is to assess the accuracy and reliability of the satellite-based PM2.5 product by evaluating its performance against ground-based observations.
+This project uses the GRASP algorithm outputs to compare surface station measurements of PM2.5 with satellite-derived estimates from the PARASOL/POLDER instruments. The goal is to assess the accuracy and reliability of the satellite-based PM2.5 product by evaluating its performance against ground-based observations.
 
 Data Sources
 
